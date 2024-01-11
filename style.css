@@ -1,0 +1,23 @@
+.description {
+  font-family: "URW Chancery L", cursive;	
+  color: black;
+}
+
+h1 {
+  font-family: "American Typewriter", serif	
+}
+
+h1{
+  text-align:center;
+  margin-top:100px;
+  margin-left:-300px;
+}
+
+h3{
+  margin-top:50px ;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1495195129352-aeb325a55b65?q=80&w=3876&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+}
